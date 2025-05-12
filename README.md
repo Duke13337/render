@@ -28,12 +28,4 @@
 - **SDL2** — для графики и обработки событий.
 - **SDL2_gfx** — для рисования графических примитивов (кругов).
 
-## Установка
 
-### Для Linux
-
-1. Установите библиотеки SDL2 и SDL2_gfx:
-
-   Для Ubuntu/Debian:
-   ```bash
-   sudo apt-get install libsdl2-dev libsdl2-gfx-dev
